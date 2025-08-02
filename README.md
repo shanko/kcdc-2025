@@ -1,2 +1,9 @@
 # kcdc-2025
-Code Repo for KCDC workshop
+
+## Setup:
+1. Github
+2. ChatGPT
+3. Ollama
+4. Windsurf
+5. Google Colab
+6. Lovable
