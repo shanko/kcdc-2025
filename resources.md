@@ -3,8 +3,8 @@
 **Vibe Coding:**
 
 1. Lovable (FE): [https://lovable.dev](https://lovable.dev)  
-2. Warp Terminal: [https://warp.dev](https://warp.dev)  
-3. Windsurf (BE): [https://codeium.com/windsurf](https://codeium.com/windsurf)  
+2. Windsurf (BE): [https://codeium.com/windsurf](https://codeium.com/windsurf)  
+3. Warp Terminal: [https://warp.dev](https://warp.dev)  
 4. Encore: [https://encore.cloud/use-cases/ai](https://encore.cloud/use-cases/ai)  
 5. Bolt: [https://bolt.new/](https://bolt.new/)  
 6. Fine: [https://fine.dev/](https://find.dev/)  
@@ -124,4 +124,4 @@
 5. Pinokio: [https://program.pinokio.computer/\#](https://program.pinokio.computer/#)  
 6. MCP: [https://modelcontextprotocol.io/introduction](https://modelcontextprotocol.io/introduction)  
 7. A2A: [https://github.com/google/A2A](https://github.com/google/A2A)  
-8. TikTokenizer: [https://tiktokenizer.vercel.app/](https://tiktokenizer.vercel.app/)  
+
