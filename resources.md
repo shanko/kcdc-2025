@@ -1,6 +1,6 @@
-**AI Resources**
+# AI Resources
 
-**Vibe Coding:**
+## Vibe Coding:
 
 1. Lovable (FE): [https://lovable.dev](https://lovable.dev)  
 2. Windsurf (BE): [https://codeium.com/windsurf](https://codeium.com/windsurf)  
@@ -19,7 +19,7 @@
 15. Boot: [https://boot.dev/](https://boot.dev/)  
 16. WatsonX: [https://www.ibm.com/granite/docs/use-cases/coding-assistant/](https://www.ibm.com/granite/docs/use-cases/coding-assistant/)  
 
-**LLMs Playgrounds:**
+## LLM Playgrounds
 
 1. Perplexity: [https://www.perplexity.ai](https://www.perplexity.ai)  
 2. Captions: [https://www.captions.ai/](https://www.captions.ai/)  
@@ -37,7 +37,7 @@
 14. Curioser: [https://curiouser.ai/](https://curiouser.ai/)  
 15. TXYZ: [https://app.txyz.ai/](https://app.txyz.ai/)  
 
-**Platforms:**
+## Platforms
 
 1. Ollama: [https://github.com/ollama/ollama](https://github.com/ollama/ollama)  
 2. Hugging Face: [https://huggingface.com](https://huggingface.com)  
@@ -50,8 +50,7 @@
 9. Tensorflow: [https://github.com/tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)  
 10. PyTorch: [https://pytorch.org](https://pytorch.org)  
     
-
-**Agentic Frameworks:** 
+## Agentic Frameworks 
 
 1. LangGraph: [https://www.langchain.com/langgraph](https://www.langchain.com/langgraph)  
 2. CrewAI: [https://www.crewai.com/](https://www.crewai.com/)  
@@ -67,7 +66,7 @@
 12. MPC GMail: [https://github.com/Aayushchaudry/MCP\_gmail/tree/main](https://github.com/Aayushchaudry/MCP_gmail/tree/main)  
 13. 
 
-**Cloud GPUs:**
+## Cloud GPUs
 
 1. LambdaLabs: [https://lambda.ai/](https://lambda.ai/)  
 2. Runpod: [https://www.runpod.io/](https://www.runpod.io/)  
@@ -75,25 +74,25 @@
 4. Paperspace: [https://www.paperspace.com/](https://www.paperspace.com/)  
 5. Genesis: [https://www.genesiscloud.com/](https://www.genesiscloud.com/)
 
-**Books:**
+## Books
 
 * Ollama in Action: [https://leanpub.com/ollama/read](https://leanpub.com/ollama/read)  
 * Langchain: [http://leanpub.com/langchain/read](http://leanpub.com/langchain/read)  
 * Finetuning: [https://leanpub.com/finetuning](https://leanpub.com/finetuning)
 
-**How Tos:**
+## How Tos
 
 * RAG from scratch: [https://www.freecodecamp.org/news/mastering-rag-from-scratch](https://www.freecodecamp.org/news/mastering-rag-from-scratch)  
 * Building RAG pipeline: [https://medium.com/@mahakal001/building-a-rag-pipeline-step-by-step-0a5e1ac68562](https://medium.com/@mahakal001/building-a-rag-pipeline-step-by-step-0a5e1ac68562)
 
-**Free Courses:**
+## Free Courses
 
 * NVIDIA: [https://learn.nvidia.com/en-us/training/self-paced-courses](https://learn.nvidia.com/en-us/training/self-paced-courses)  
 * Databricks: [https://www.databricks.com/training/catalog?costs=free](https://www.databricks.com/training/catalog?costs=free)  
 * AWS: [https://skillbuilder.aws/generative-ai](https://skillbuilder.aws/generative-ai)  
 * Fortune Summary: [https://fortune.com/education/articles/free-ai-classes-you-can-take-online/](https://fortune.com/education/articles/free-ai-classes-you-can-take-online/)
 
-**Articles:**
+## Articles
 
 1. Top 100: [https://a16z.com/100-gen-ai-apps-4/](https://a16z.com/100-gen-ai-apps-4/)  
 2. Local LLM: [https://getstream.io/blog/best-local-llm-tools/](https://getstream.io/blog/best-local-llm-tools/)  
@@ -115,7 +114,7 @@
 17. Meditron**:** [https://ai.meta.com/blog/llama-2-3-meditron-yale-medicine-epfl-open-source-llm/](https://ai.meta.com/blog/llama-2-3-meditron-yale-medicine-epfl-open-source-llm/)   
 18. AI-based Testing: [https://sdtimes.com/test/the-evolution-and-future-of-ai-driven-testing-ensuring-quality-and-addressing-bias/](https://sdtimes.com/test/the-evolution-and-future-of-ai-driven-testing-ensuring-quality-and-addressing-bias/)  
 
-**Misc:**
+## Misc
 
 1. Ruby ML Gems: [https://ankane.org/new-ml-gems](https://ankane.org/new-ml-gems)  
 2. TikTokenizer: [https://tiktokenizer.vercel.app/?model=gpt-4-1106-preview](https://tiktokenizer.vercel.app/?model=gpt-4-1106-preview)  

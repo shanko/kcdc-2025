@@ -4,6 +4,10 @@
 1. Github
 2. ChatGPT
 3. Ollama
-4. Windsurf
-5. Google Colab
-6. Lovable
+
+## Optional:
+1. Windsurf.com
+2. Google Colab
+3. Lovable.dev
+4. HuggingFace.co
+5. Lambda.ai
