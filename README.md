@@ -11,7 +11,7 @@ Laptop with at least 16 GB of RAM and 40 GB of free disk space
 $ python3 -m venv venv
 $ source venv/bin/activate
 ```
-4. Install the following Python packages using pip:
+4. Install the following Python packages using pip (e.g. `pip install -r requirements.txt`):
    - langchain 
    - langchain-chroma
    - langchain-community
