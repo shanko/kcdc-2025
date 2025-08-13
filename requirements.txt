@@ -1,0 +1,11 @@
+langchain
+langchain-chroma
+langchain-community
+langchain-core
+langchain-ollama
+langgraph
+ollama
+pandas
+pip
+torch
+transformers
