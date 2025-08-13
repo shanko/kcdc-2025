@@ -22,9 +22,11 @@ $ source venv/bin/activate
    - pandas
    - torch
    - transformers 
-5. If you are on Windows, install [WSL2](https://learn.microsoft.com/en-us/windows/wsl/install)
-   OR Install Ollama for Windows (new)[https://github.com/ollama/ollama/blob/main/docs/windows.md]
-6. Install [Ollama](https://ollama.com) and pull the following models:
+5. IF you are on Windows, 
+   - EITHER install [WSL2](https://learn.microsoft.com/en-us/windows/wsl/install)
+   - OR Install Ollama for [Windows](https://github.com/ollama/ollama/blob/main/docs/windows.md)
+   ELSE Install [Ollama](https://ollama.com) and pull the following models:
+
 ```
 $ ollama pull tinyllama
 $ ollama pull mxbai-embed-large
