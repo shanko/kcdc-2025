@@ -8,7 +8,7 @@ def chat_with_me(txt):
         "format": "json", 
         "prompt": txt,
         "stream": False,
-        "options": { "temperature": 0 } 
+        "options": { "temperature": 2.0 } 
     }
     response = requests.post(url, headers=headers, json=data)
     return response.json()["response"]
